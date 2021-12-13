@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mourex99 Tmj
 - 👀 I’m interested in  aprender
-- 🌱 I’m currently learning  html e css
+- 🌱 I’m currently learning  Java
 - 💞️ I’m looking to collaborate como desenvolvedor
 
 
