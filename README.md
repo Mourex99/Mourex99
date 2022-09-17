@@ -1,6 +1,6 @@
  ### Eu sou o Mateus Moura, Bem vindo! 
  
- 👨‍💻 - Desenvolvedor Java Júnior
+ 👨‍💻 - Estudante Java Full Stack
  
  🎓 - Interesses em: Java, Python, HTML, CSS, JavaScript, Spring Boot, Angular.
  
