@@ -7,8 +7,10 @@
  
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-m-a30259114/">
-  ![Mateus Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br> 
+   
 </div>
+
+![Mateus Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
   
   ##
   
