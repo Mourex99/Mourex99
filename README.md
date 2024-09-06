@@ -10,7 +10,7 @@
    
 </div>
 
-![Mateus Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMoura&layout=compact)](https://github.com/hellenmas/github-readme-stats)
   
   ##
   
