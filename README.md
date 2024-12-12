@@ -10,7 +10,7 @@
    
 </div>
 
-![Mateus Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourex99&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourex99&hide=javascript,css,scss,html&theme=tokyonight)
   
   ##
   
