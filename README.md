@@ -10,7 +10,7 @@
    
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourex99&layout=compact&theme=dark)](https://github.com/hellenmas/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
   
   ##
   
