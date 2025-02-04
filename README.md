@@ -2,7 +2,7 @@
  
  👨‍💻 - Estudante de T.I
  
- 🎓 - Interesses em: Java, Python, HTML, CSS, JavaScript, Spring Boot, Angular.
+ 🎓 - Interesses em: Node JS, Java, Spring Boot, Python, HTML, CSS, JavaScript, React, React-Native. 
  
  
 <div align="center">
